@@ -1,3 +1,3 @@
-# stylegan2-train
+# stylegan2-train in colab
 
 for test
