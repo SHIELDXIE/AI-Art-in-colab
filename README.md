@@ -1,3 +1,2 @@
-# stylegan2-train in colab
-
-for test
+# AI notebook in colab
+测试存档
